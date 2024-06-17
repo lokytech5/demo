@@ -27,6 +27,8 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 - **Daisyui Component**
 - **React Query version 4.28**
 - **React Toastify**
+- **React Icons**
+- **Axios**
 - **Floating Navbar**
 - **Footer**
 
