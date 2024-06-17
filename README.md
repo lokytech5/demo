@@ -1,4 +1,8 @@
-This is a [A simple Demo] which can be used to start up any project at any time but you need to be farmilar with Daisyu component to used it.
+# Simple Demo Project
+
+This is a simple demo project which can be used to start up any project at any time. However, you need to be familiar with DaisyUI components to use it effectively.
+
+![Project Screenshot](path/to/your/image.png)  <!-- Placeholder for image -->
 
 ## Getting Started
 
