@@ -2,6 +2,9 @@
 
 This is a simple demo project which can be used to start up any project at any time. However, you need to be familiar with DaisyUI components to use it effectively.
 
+# Hint
+You can clone the project and remove the git repo with  `rm -rf .git` and add your own repository. 
+
 ![Project Screenshot](/public/images/Screenshot1.png)  <!-- Placeholder for image -->
 ![Project Screenshot](/public/images/Screenshot2.png)  <!-- Placeholder for image -->
 
